@@ -1,2 +1,2 @@
 # hello-world
-Just another starter world
+Everything is wonderful and life is excellent
